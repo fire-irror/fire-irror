@@ -1,6 +1,6 @@
 #  🍀NOAH🍀
 
-#### ☘️ I’m currently learning C, JAVA, DB, C++, REACT
+#### ☘️ I’m currently learning C, JAVA, DB, C++, REACT,
 
 #### 📫 How to reach me --> s2212@e-mirim.hs.kr
 
