@@ -1,8 +1,9 @@
 
 
 <div align="center">
+  
+  ![header](https://capsule-render.vercel.app/api?type=waving&color=FFCCFF&height=250&section=header&text=Noah's_World&fontSize=90&fontcolor=FFFFFF)
 
-![header](https://capsule-render.vercel.app/api?type=transparent&text=Noah'World&color=FF99CC&&fontColor=FF99CC&fontsize=200)
   </div>        
     
 <div align="center">
