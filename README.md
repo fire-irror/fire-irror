@@ -2,7 +2,7 @@
 
 <div align="center">
 
-![header](https://capsule-render.vercel.app/api?type=waving&text=Noah'World&color=FF99CC&&fontColor=FFFFFF&fontsize=200)
+![header](https://capsule-render.vercel.app/api?type=transparent&text=Noah'World&color=FF99CC&&fontColor=FF99CC&fontsize=200)
   </div>        
     
 <div align="center">
