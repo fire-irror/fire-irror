@@ -7,6 +7,8 @@
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=fire-irror&layout=compact)](https://github.com/fire-irror/github-readme-stats)
 
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=fire-irror&show_icons=true&theme=radical)
+
 
 
 <!--[
