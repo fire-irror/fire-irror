@@ -2,7 +2,7 @@
 
 <div align="center">
   
-  ![header](https://capsule-render.vercel.app/api?type=waving&color=FFCCFF&height=250&section=header&text=Noah's_World&fontSize=90&fontcolor=FFFFFF)
+  ![header](https://capsule-render.vercel.app/api?type=rounded&color=FF6699&height=200&section=header&text=Noah's_World&fontSize=90&&fontColor=FFFFFF)
 
   </div>        
     
