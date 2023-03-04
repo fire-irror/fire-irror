@@ -1,15 +1,17 @@
-#  🍀NOAH🍀
-
-#### ☘️ I’m currently learning C, JAVA, DB, C++, REACT,AI
-
-#### 📫 How to reach me --> s2212@e-mirim.hs.kr
 
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=fire-irror&layout=compact)](https://github.com/fire-irror/github-readme-stats)
+<div align="center">
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=fire-irror&show_icons=true&theme=radical)
+![header](https://capsule-render.vercel.app/api?type=waving&text=Noah'World&color=FF99CC&&fontColor=FFFFFF&fontsize=200)
+  </div>        
+    
+<div align="center">
+  
+![Hwakyoung Park's GitHub stats](https://github-readme-stats.vercel.app/api?username=fire-irror&show_icons=true&theme=dracula)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=fire-irror&layout=compact&theme=dracula)
+ 
 
-
+</div>
 
 <!--[
 ](https://www.instagram.com/)
