@@ -2,7 +2,7 @@
 
 <div align="center">
   
-  ![header](https://capsule-render.vercel.app/api?type=rounded&color=FF6699&height=200&section=header&text=Noah's_World&fontSize=90&&fontColor=FFFFFF)
+  ![header](https://capsule-render.vercel.app/api?type=transparent&height=200&section=header&text=Noah's_World✨&fontSize=90&&fontColor=FF6699)
 
   </div>        
     
@@ -13,7 +13,16 @@
  
 
 </div>
+<div aling="center">
+💡Language💡
 
+  </div>
+  <div aling="center">
+
+<img src="https://img.shields.io/badge/Java-007396?style=flat&logo=OpenJDK&logoColor=white"/>
+ <img src="https://img.shields.io/badge/C-1572B6?style=flat&logo=C&logoColor=#A8B9CC"/>
+ 
+  </div>
 <!--[
 ](https://www.instagram.com/)
 **fire-irror/fire-irror** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
