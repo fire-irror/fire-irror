@@ -9,19 +9,16 @@
 <div align="center">
   
 ![Hwakyoung Park's GitHub stats](https://github-readme-stats.vercel.app/api?username=fire-irror&show_icons=true&theme=dracula)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=fire-irror&layout=compact&theme=dracula)
- 
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=fire-irror&layout=compact&theme=dracula)   <br>
 
-</div>
-<div aling="center">
-💡Language💡
+  -------
+  ### 💡Language💡 <br>
+<img src="https://img.shields.io/badge/Java-007396?style=flat&logo=java&logoColor=white"/>
+<img src="https://img.shields.io/badge/C-1572B6?style=flat&logo=C&logoColor=#A8B9CC"/>
+<img src="https://img.shields.io/badge/C++-00599C?style=flat&logo=C&logoColor=white"/>
+<img src="https://img.shields.io/badge/React-61DAFB?style=flat&logo=React&logoColor=white"/>
+<img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=JavaScript&logoColor=white"/>
 
-  </div>
-  <div aling="center">
-
-<img src="https://img.shields.io/badge/Java-007396?style=flat&logo=OpenJDK&logoColor=white"/>
- <img src="https://img.shields.io/badge/C-1572B6?style=flat&logo=C&logoColor=#A8B9CC"/>
- 
   </div>
 <!--[
 ](https://www.instagram.com/)
