@@ -25,7 +25,7 @@
 <img src="https://img.shields.io/badge/css-1572B6?style=for-the-flat&logo=css3&logoColor=white"> 
 <img src="https://img.shields.io/badge/PHP-777BB4?style=for-the-flat&logo=PHP&logoColor=white"/>
  <img src="https://img.shields.io/badge/mysql-4479A1?style=for-the-flat&logo=mysql&logoColor=white">
- <img src="https://img.shields.io/badge/Android-3DDC84?style=for-the-flat&logo=Android&logoColor=white"/></a>
+
   </div>
 <!--[
 ](https://www.instagram.com/)
